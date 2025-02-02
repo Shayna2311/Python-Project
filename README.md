@@ -1,6 +1,5 @@
 # Python-Project
 
-## Overview
 This is a Python project that I completed in my first year in university as part of my coursework. The project is split into the following two parts:
 
 ## Part 1: Household Electricity Consumption Calculator
@@ -19,4 +18,4 @@ The first step towards driving positive behavioural changes for climate action i
 **FAQ Section:** This feature provides answers to potential questions users may have about using the program.
 
 ## Part 2: Analysis of Air Pollution in Singapore
-
+For this part, we utilised the pandas and matplotlib modules in Python to analyse air pollution in Singapore between 2010 - 2020.
