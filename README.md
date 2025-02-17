@@ -1,4 +1,4 @@
-# Python-Project
+# Household Electricity Usage Calculator & Air Pollution Analysis in Python
 
 This is a Python project that I completed in my first year in university as part of my coursework. The project is split into the following two parts:
 
